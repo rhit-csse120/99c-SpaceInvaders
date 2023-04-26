@@ -7,8 +7,7 @@ import pygame
 #     from Missiles import Missiles
 #     from Enemies import Enemies
 
-# TODO: Put your names here (entire team)
-
+# lksdflakjsdlfakjsdl;fkjasl;dkfj
 
 class Game:
     def __init__(self, screen: pygame.Surface):
