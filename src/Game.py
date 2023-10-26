@@ -7,7 +7,6 @@ import pygame
 #     from Missiles import Missiles
 #     from Enemies import Enemies
 
-# lksdflakjsdlfakjsdl;fkjasl;dkfj
 
 class Game:
     def __init__(self, screen: pygame.Surface):
